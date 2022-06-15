@@ -4,3 +4,4 @@ logs/*
 dataset/jpg/*
 dataset/.idea/*
 dataset/102flowers.tgz
+*.h5
